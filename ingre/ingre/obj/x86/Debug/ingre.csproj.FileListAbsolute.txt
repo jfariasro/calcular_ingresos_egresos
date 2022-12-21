@@ -1,0 +1,16 @@
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\bin\Debug\ingre.exe
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\bin\Debug\ingre.pdb
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\obj\x86\Debug\ingre.Form1.resources
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\obj\x86\Debug\ingre.Properties.Resources.resources
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\obj\x86\Debug\ingre.csproj.GenerateResource.Cache
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\obj\x86\Debug\ingre.exe
+C:\Users\alumnopc0107\Music\EJERCICIOS PRÁCTICOS\ingre\ingre\obj\x86\Debug\ingre.pdb
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\bin\Debug\ingre.exe
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\bin\Debug\ingre.pdb
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.csprojAssemblyReference.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.Form1.resources
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.Properties.Resources.resources
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.csproj.GenerateResource.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.csproj.CoreCompileInputs.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.exe
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\NOVENO SEMESTRE\TITULACIÓN 1\PROGRAMACION\SEGUNDO PARCIAL\ingre\ingre\obj\x86\Debug\ingre.pdb
